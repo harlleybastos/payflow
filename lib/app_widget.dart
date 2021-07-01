@@ -4,7 +4,6 @@ import 'package:payflow/modules/barcoder_scanner/barcode_scanner_page.dart';
 import 'package:payflow/modules/home/home_page.dart';
 import 'package:payflow/modules/insert_boleto/insert_boleto_page.dart';
 import 'package:payflow/modules/splash/splash_page.dart';
-import "package:wakelock/wakelock.dart";
 import 'modules/login/login_page.dart';
 import 'shared/themes/app_colors.dart';
 
@@ -12,7 +11,6 @@ class AppWidget extends StatelessWidget {
   AppWidget() {
     SystemChrome.setPreferredOrientations(
         [DeviceOrientation.portraitDown, DeviceOrientation.portraitUp]);
-    Wakelock.enable();
   }
 
   @override
