@@ -31,7 +31,6 @@
 <h2 align="center">About 📖</h2>
 
 <p align="center">
-    This project was developed at Next Level Week, an intense week of studies, networking, friendship, group work, accompanied by a sensational project developed by Rocketseat from the 20th to the 27th of June.<br>
     This application is a Billet Management, containing several features, which will soon be developed and explained.<br>
 </p>
 
