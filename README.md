@@ -31,7 +31,7 @@
 <h2 align="center">About 📖</h2>
 
 <p align="center">
-    This application is a Billet Management, containing several features, which will soon be developed and explained.<br>
+    This application is a Billet Management, containing several features.
 </p>
 
 ---
